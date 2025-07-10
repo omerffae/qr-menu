@@ -1,22 +1,23 @@
 # qr-menu
 
-**qr-menu** Projesi, kişinin kendine özel olarak uyarlayabildiği, çok sayfalı bir açık kaynaklı yazılımdır.🚀  
+**qr-menu** Project is a multi-page open-source software that can be customized for personal use.🚀  
 
-![Proje Görseli](./images/qr-menu-gif.gif)  
-
----
-
-## 🛠️ Özellikler
-
-- 🔹 **Özellik 1**: HTML5, CSS3 ve JS ile yazıldı.
-- 🔹 **Özellik 2**: Ürünler API'den çekildi, API olarak db.json kullanıldı
-- 🔹 **Özellik 3**: Responsive tasarımdır.  
+![Project Image](./images/qr-menu-gif.gif)  
 
 ---
 
-## 📚 Kurulum
+## 🛠️ Features
 
-1. Bu projeyi bilgisayarınıza klonlayın:  
+- 🔹 **Feature 1**: Built with HTML5, CSS3, and JS.
+- 🔹 **Feature 2**: Products are fetched from an API, using db.json as the API.
+- 🔹 **Feature 3**: Responsive design.  
+
+---
+
+## 📚 Installation
+
+1. Clone this project to your computer:  
    ```bash
-   cd Klasör adı
+   cd [Folder Name]
    git clone https://github.com/omerffae/qr-menu.git
+```
